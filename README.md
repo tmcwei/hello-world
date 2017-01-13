@@ -1,2 +1,2 @@
 # hello-world
-my first trial in Github
+Hi my name is Tracy Wei
